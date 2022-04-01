@@ -26,7 +26,7 @@ Clone this repository
 
 Go into the repository
 
-- cd fb-clone
+- cd fb-clone https://github.com/ujjwal-stha/fb-clone.git
 
 Install dependencies
 
