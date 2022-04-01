@@ -1,0 +1,6 @@
+/* Added */
+@media only screen and (max-width: 1000px) {
+  .widgets {
+    display: none;
+  }
+}
