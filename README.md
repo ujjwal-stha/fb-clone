@@ -22,11 +22,11 @@ facebook-clone app created in React that allows you to check in using your Googl
 
 Clone this repository
 
-- $ git clone
+- $ git clone https://github.com/ujjwal-stha/fb-clone.git
 
 Go into the repository
 
-- cd fb-clone https://github.com/ujjwal-stha/fb-clone.git
+- cd fb-clone 
 
 Install dependencies
 
